@@ -1,0 +1,136 @@
+.img-fluid{
+    width: 100px;
+   
+
+
+}
+
+
+
+
+.p-5{
+   
+
+    margin: -3px;
+    margin-bottom: -40px;
+
+  
+
+}
+
+a{
+
+text-decoration: none;
+
+}
+
+#vision{
+    font-size:45px;
+    font-weight: bold; 
+    font-style: italic;
+    text-align: center;
+    color: #057c15c7;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* #sesion-mision{
+    padding: -100px;
+
+    background-color: black;
+} */
+
+body{
+
+    background-color: "fff";
+}
+
+
+.row {    background-color: beige}
+
+
+#parrafo-mision{
+    color: rgb(0, 0, 1);
+    font-weight: bold; 
+    font-style: italic;
+    text-align: center;
+    text-align: justify;
+    font-size:27px;
+    /* line-height: 60px; */
+    vertical-align:sub;
+}
+
+
+#section-mision{
+background-color: white;
+
+
+
+
+}
+
+#mision{
+    font-size:45px;
+    font-weight: bold; 
+    font-style: italic;
+    text-align: center;
+    color: #057c15c7;
+   
+   
+}
+
+
+#parrafo{
+
+    width: 98%;
+    background-color: white;
+}
+
+
+span{
+
+    font-size:55px;
+    font-weight: bold; 
+    font-style: italic;
+    color:#057c15c7 ;
+
+
+
+}
+/* 
+span{
+    
+    font-size:55px;
+    font-weight: bold; 
+    font-style: italic;
+    color: transparent;
+
+  -moz-text-stroke-width: 2px;
+  -webkit-text-stroke-width: 2px;
+
+  -moz-text-stroke-color: #000000;
+  -webkit-text-stroke-color: #000000;
+    text-align: center;
+    display: block;
+    font-family: monospace;
+    white-space:nowrap;
+    border-right: 4px solid;
+    width: 16ch;
+
+    animation:typing 3s steps(14),
+    blink 0.5s  infinite step-end alternate;
+    overflow: hidden ;
+
+}
+
+@keyframes typing{
+
+from {width:0}
+
+} */
+
+
+/* @keyframes blink{
+    50%{border-color: transparent;}
+
+}
+ */
